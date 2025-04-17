@@ -641,16 +641,6 @@ margin-bottom: 16px;
   transform: translate(-50%, -100%);
 }
 
-.form {
-  display: flex;
-  flex-direction: column;
-
-  width: 360px;
-  height: 336px;
-
-  background: #fcfcfc;
-}
-
 .form-subtitle {
   font-weight: 500;
   font-size: 16px;
